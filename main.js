@@ -3,7 +3,6 @@ const app = Vue.createApp({
         return {
             product: "Boots",
             description: "Imported chelsea boots"
-        }
-        
+        }     
     }
 })
